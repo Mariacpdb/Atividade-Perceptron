@@ -17,6 +17,10 @@ Este repositório contém a atividade prática da disciplina de Inteligência Ar
 ## 📌 Perguntas e Respostas  
 
 ### 1. Conceito  
+
+Explique, com suas palavras, o que é um Perceptron e qual a sua importância histórica para o
+desenvolvimento da Inteligência Artificial.
+
 O **Perceptron** é um modelo de rede neural artificial criado por Frank Rosenblatt em 1958. Ele funciona como um "neurônio artificial" que recebe entradas, aplica pesos, soma os valores, adiciona um viés (bias) e, por meio de uma função de ativação, gera uma saída.  
 Historicamente, foi o primeiro passo importante para o desenvolvimento da Inteligência Artificial e inspirou as arquiteturas de redes neurais modernas.  
 
