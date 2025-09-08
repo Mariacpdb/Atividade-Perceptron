@@ -36,7 +36,8 @@ As principais etapas do processo de treinamento do Perceptron são:
 5. Repetição do processo até que o erro seja minimizado ou atinja um número de épocas definido.  
 
 ### 4. Aplicação prática  
-Um exemplo real em que o Perceptron pode ser útil é na classificação de e-mails como spam ou não spam.  
+Um exemplo real em que o Perceptron pode ser útil é na classificação de e-mails como spam ou não spam. Em um hospital, o perceptron pode ser aplicado para auxiliar na detecção rápida de febre. 
+Usando como entradas a temperatura corporal e a frequência cardíaca, ele aprende a identificar padrões e traça uma linha de decisão que separa pacientes com febre dos sem febre. dessa forma, fornece uma resposta objetiva e ágil, ajudando a priorizar o atendimento médico
 
 
 ---
