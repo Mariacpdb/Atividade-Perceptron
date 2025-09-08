@@ -23,9 +23,9 @@ O Perceptron foi o primeiro  modelo de rede neural artificial que foi criado em 
 Foi considerado o primeiro passo importante para o desenvolvimento da Inteligência Artificial e a partir dele surgiram  as arquiteturas de redes neurais modernas.  
 
 ### 2. Funcionamento  
-O Perceptron é considerado um classificador linear, ou seja  ele só consegue separar dados que podem ser divididos por uma linha.  
-- Isso significa que ele é eficiente para problemas **linearmente separáveis**, como AND e OR.  
-- Porém, ele não consegue resolver problemas mais complexos, como a porta lógica **XOR**, que exige modelos com múltiplas camadas (redes neurais profundas).  
+O Perceptron é considerado um classificador linear, ou seja  ele só consegue separar dados que podem ser divididos por uma linha, ele finxikna com 2 , 3 ou mais dimensões .  
+Ou seja ele é eficiente para problemas linearmente separáveis, como AND e OR.  
+Mas, ele não consegue resolver problemas mais complexos, que exige modelos com múltiplas camadas que sao as redes neurais profundas.  
 
 ### 3. Código  
 As principais etapas do processo de treinamento do Perceptron são:  
@@ -36,7 +36,7 @@ As principais etapas do processo de treinamento do Perceptron são:
 5. Repetição do processo até que o erro seja minimizado ou atinja um número de épocas definido.  
 
 ### 4. Aplicação prática  
-Um exemplo real em que o Perceptron pode ser útil é na **classificação de e-mails como spam ou não spam**.  
-Apesar de existirem modelos muito mais avançados hoje, o Perceptron pode servir como uma solução inicial para problemas simples de classificação binária. Ele é rápido, fácil de implementar e permite entender os conceitos fundamentais de aprendizado supervisionado.  
+Um exemplo real em que o Perceptron pode ser útil é na classificação de e-mails como spam ou não spam.  
+
 
 ---
